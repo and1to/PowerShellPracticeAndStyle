@@ -1,6 +1,6 @@
 # The PowerShell Best Practices and Style Guide
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/), please attribute to Don Jones, Matt Penny, Carlos Perez, Joel Bennett and the PowerShell Community.
+This work is licensed under a [Creative,  Perez, Joel Bennett and the PowerShell Community.
 
 ###### You are free to:
 
@@ -21,12 +21,7 @@ _The PowerShell Style Guide_ was originally created by Carlos Perez, for his stu
 
 Portions copyright (c) Carlos Perez, 2015
 
-Any mistakes in either of these documents are there because Joel Bennett got involved. Please submit [issues](https://github.com/PoshCode/PowerShellPracticeAndStyle/issues) and help us correct them.
-
-Portions copyright (c) Joel Bennett, 2015
-
-#### NOTE
-
+Any mistakes in either of these documents are there because Joel Bennett got involved. Please submit [issues](https://github.com/PoshCode/PowerShellPracticeAndS
 The *PowerShell Best Practices* are always evolving, and continue to be edited and updated as the language and tools (and our community understanding of them) evolve. We encourage you to check back for new editions at least twice a year, by visiting [https://github.com/PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle).
 
 The *PowerShell Style Guide* in particular is in PREVIEW, and we are still actively working out our disagreements about the rules in the guide through the GitHub issues system. Please don't be surprised if over then next few weeks we change rules to contradict what they say at this current moment.
